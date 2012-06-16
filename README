@@ -1,0 +1,3 @@
+This is a java port of my C# IRC channel moderation bot, Obsidian.
+All CS, EXE, JAR, and CLASS commands written for Obsidian will work in jObsidian. This bot requires
+the Java Runtime and .NET if C# exes are used
